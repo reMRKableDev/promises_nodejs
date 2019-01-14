@@ -1,0 +1,8 @@
+{
+  "name": "promise-select-example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "pg": "^7.8.0"
+  }
+}
