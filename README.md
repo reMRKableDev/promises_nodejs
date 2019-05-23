@@ -24,8 +24,9 @@ To use the examples provided:
 
 ```
 1. Clone repo.
+2. Choose desired folder.
 2. Run 'npm install' so as to get the required dependencies.
-3. Choose desired folder + run node apps.
+3. Run node apps.
 ```
 
 Have fun :)
